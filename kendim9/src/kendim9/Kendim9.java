@@ -10,7 +10,7 @@ package kendim9;
  * @author baki
  */
 public class Kendim9 {
-
+//güzel oldu
     public static int fib(int i) {
         if (i == 0) {
             return 1;
